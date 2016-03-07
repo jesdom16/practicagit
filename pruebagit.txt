@@ -1,0 +1,3 @@
+Sistema de Control Escolar
+_______________________________________
+Este sistema permite gestionar las actividades de control escolar, tales como captura de alumnos, calificaciones y boletas.
