@@ -21,3 +21,7 @@ El sistema está implementado
 Informacion de la RAMA prueba
 _______________________________________
 Esta es una nueva rama del proyecto
+
+Otro commit de la rama prueba
+_______________________________________
+Este commit solo se muestra en la rama prueba, posteriormente lo vamos a fusionar con la rama master
