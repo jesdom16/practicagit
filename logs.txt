@@ -1,0 +1,29 @@
+commit ac15542b93fc4815857d71a26fc65570763f0ff0
+Author: Jesús Beltrán <jesdom_bc16@hotmail.com>
+Date:   Tue Mar 8 10:11:13 2016 -0700
+
+    Conclusiones
+
+commit be8f5dc29b6513fa197f238c5f000f568ec07fd1
+Author: Jesús Beltrán <jesdom_bc16@hotmail.com>
+Date:   Mon Mar 7 10:58:42 2016 -0700
+
+    Requisitos no funcionales
+
+commit d9892dd813713b3dc26964dfaab91c9139a3775b
+Author: Jesús Beltrán <jesdom_bc16@hotmail.com>
+Date:   Mon Mar 7 10:55:04 2016 -0700
+
+    Requisitos funcionales
+
+commit 069c3b628f7dbb69f3d124b1f1bacc06dda1660f
+Author: Jesús Beltrán <jesdom_bc16@hotmail.com>
+Date:   Mon Mar 7 10:52:23 2016 -0700
+
+    Titulo y descripcion del proyecto
+
+commit 0c3765c77c2471f89f9ab880e181185d3c924016
+Author: Jesús Beltrán <jesdom_bc16@hotmail.com>
+Date:   Mon Mar 7 10:48:13 2016 -0700
+
+    proyecto en blanco
